@@ -1,0 +1,3 @@
+# HOMEWORK
+
+www.patika.dev
